@@ -7,8 +7,6 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
-    "koa": "^2.13.4",
-    "koa-static": "^5.0.0",
     "vue": "^3.2.31"
   },
   "devDependencies": {
