@@ -7,6 +7,7 @@
 					<div><img alt="Concepts" title="Concepts" src='./assets/buttons/concepts.webp'></div>
 				</div>
 			</div>
+			
 			<div class="content">
 				<div class="side-panel"></div>
 				<div class="main-content"></div>
